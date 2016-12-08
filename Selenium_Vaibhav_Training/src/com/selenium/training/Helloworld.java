@@ -8,6 +8,9 @@ public class Helloworld {
 		
 		System.out.println("Printing the second line...");
 		
+		System.out.println("Printing the third line...");
+		
+		System.out.println("hai !");
 
 	}
 
